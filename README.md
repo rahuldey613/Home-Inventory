@@ -10,7 +10,7 @@ The finished project is saved as HomeInventory in the \HomeJava\HomeJava Project
 group. Start NetBeans (or your IDE). Open the specified project group. Make HomeInventory the
 main project. Run the project. You will see:
 
-<img src="hi1">
+<img src="hi1.png">
 
 A toolbar control is used to add, delete and save items from the inventory. It is also used to
 navigate from one item to the next. The primary way to enter information about an inventory item is
@@ -21,7 +21,7 @@ panel control holds 26 buttons for searching.
 The program has a built-in sample inventory file – the first item in that file is displayed (items are
 listed alphabetically by Inventory Item):
 
-<img src="hi2">
+<img src="hi2.png">
 
 You will, of course, be able to replace the built-in file with your own belongings, but for now, let’s
 see how the program works.
@@ -49,7 +49,7 @@ clicked letter. Try searching the sample inventory, if you’d like.
 Another nice feature of the project is the ability to get a printed record of your inventory. Click the
 toolbar button marked Print (don’t worry, nothing will print). You will see:
 
-<img src="hi3">
+<img src="hi3,png">
 
 This is the standard print dialog where you select printing options (including what printer to use).
 Click Cancel.
@@ -63,14 +63,14 @@ editing features.
 Navigate to one of the existing items in the sample file (use the Previous or Next buttons or try a
 search). I moved to Toby, my ever faithful dog:
 
-<img src="hi4">
+<img src="hi4.png">
 
 We’ll delete this item, then rebuild it to demonstrate how to enter information. Click the Delete
 button – choose Yes when asked if you really want Toby to go away. The display will show the
 next item in the inventory. Click the New button to start a new item.
 The blank inventory screen appears as:
 
-<img src="hi5">
+<img src="hi5.png">
 
 At this point, you simply work your way down the form entering the desired information at the
 desired locations. When done, you click Save and the item is added to your inventory. We’ll add
@@ -86,13 +86,13 @@ date and click it. Under Store/Website, type Olympia SPCA (he’s a pound puppy)
 type Priceless.
 At this point, the form should look like this:
  
- <img src="hi6">
+ <img src="hi6.png">
  
  The last step is adding a photo.
 Click the button with the ellipsis (…) next to the Photo label area. An open file dialog box will
 appear:
 
- <img src="hi7">
+ <img src="hi7.png">
  
  The photo can be any JPEG file (what a digital camera uses). You simply navigate to a photo
 location and click Open. The samples for these notes are in the \HomeJava\HomeJava
@@ -100,7 +100,7 @@ Projects\Inventory Photos\ folder. Move to that folder and select toby.jpg as sh
 and the photo will appear.
 The final Toby inventory item page looks like this:
 
-<img src="hi8">
+<img src="hi8.png">
 
 Notice the photo and the file name listed under Photo. At this point, click Save and Toby is back in
 the list (properly sorted alphabetically).
