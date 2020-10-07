@@ -49,7 +49,7 @@ clicked letter. Try searching the sample inventory, if you’d like.
 Another nice feature of the project is the ability to get a printed record of your inventory. Click the
 toolbar button marked Print (don’t worry, nothing will print). You will see:
 
-<img src="hi3,png">
+<img src="hi3.png">
 
 This is the standard print dialog where you select printing options (including what printer to use).
 Click Cancel.
